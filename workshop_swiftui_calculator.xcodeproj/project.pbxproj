@@ -7,20 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		C088CE74297295D500809695 /* workshoo_swiftui_calculatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088CE73297295D500809695 /* workshoo_swiftui_calculatorApp.swift */; };
+		C088CE74297295D500809695 /* workshop_swiftui_calculatorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088CE73297295D500809695 /* workshop_swiftui_calculatorApp.swift */; };
 		C088CE76297295D500809695 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088CE75297295D500809695 /* ContentView.swift */; };
 		C088CE78297295D600809695 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C088CE77297295D600809695 /* Assets.xcassets */; };
 		C088CE7B297295D600809695 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C088CE7A297295D600809695 /* Preview Assets.xcassets */; };
-		C088CE822972C69D00809695 /* workshoo_swift_calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088CE812972C69D00809695 /* workshoo_swift_calculator.swift */; };
+		C088CE822972C69D00809695 /* workshop_swift_calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088CE812972C69D00809695 /* workshop_swift_calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		C088CE70297295D500809695 /* workshoo_swiftui_calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = workshoo_swiftui_calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		C088CE73297295D500809695 /* workshoo_swiftui_calculatorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = workshoo_swiftui_calculatorApp.swift; sourceTree = "<group>"; };
+		C088CE70297295D500809695 /* workshop_swiftui_calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = workshop_swiftui_calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C088CE73297295D500809695 /* workshop_swiftui_calculatorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = workshop_swiftui_calculatorApp.swift; sourceTree = "<group>"; };
 		C088CE75297295D500809695 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C088CE77297295D600809695 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C088CE7A297295D600809695 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		C088CE812972C69D00809695 /* workshoo_swift_calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = workshoo_swift_calculator.swift; sourceTree = "<group>"; };
+		C088CE812972C69D00809695 /* workshop_swift_calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = workshop_swift_calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,7 +37,7 @@
 		C088CE67297295D400809695 = {
 			isa = PBXGroup;
 			children = (
-				C088CE72297295D500809695 /* workshoo_swiftui_calculator */,
+				C088CE72297295D500809695 /* workshop_swiftui_calculator */,
 				C088CE71297295D500809695 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -45,21 +45,21 @@
 		C088CE71297295D500809695 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C088CE70297295D500809695 /* workshoo_swiftui_calculator.app */,
+				C088CE70297295D500809695 /* workshop_swiftui_calculator.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		C088CE72297295D500809695 /* workshoo_swiftui_calculator */ = {
+		C088CE72297295D500809695 /* workshop_swiftui_calculator */ = {
 			isa = PBXGroup;
 			children = (
-				C088CE73297295D500809695 /* workshoo_swiftui_calculatorApp.swift */,
-				C088CE812972C69D00809695 /* workshoo_swift_calculator.swift */,
+				C088CE73297295D500809695 /* workshop_swiftui_calculatorApp.swift */,
+				C088CE812972C69D00809695 /* workshop_swift_calculator.swift */,
 				C088CE75297295D500809695 /* ContentView.swift */,
 				C088CE77297295D600809695 /* Assets.xcassets */,
 				C088CE79297295D600809695 /* Preview Content */,
 			);
-			path = workshoo_swiftui_calculator;
+			path = workshop_swiftui_calculator;
 			sourceTree = "<group>";
 		};
 		C088CE79297295D600809695 /* Preview Content */ = {
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		C088CE6F297295D500809695 /* workshoo_swiftui_calculator */ = {
+		C088CE6F297295D500809695 /* workshop_swiftui_calculator */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C088CE7E297295D600809695 /* Build configuration list for PBXNativeTarget "workshoo_swiftui_calculator" */;
+			buildConfigurationList = C088CE7E297295D600809695 /* Build configuration list for PBXNativeTarget "workshop_swiftui_calculator" */;
 			buildPhases = (
 				C088CE6C297295D500809695 /* Sources */,
 				C088CE6D297295D500809695 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = workshoo_swiftui_calculator;
+			name = workshop_swiftui_calculator;
 			productName = workshoo_swiftui_calculator;
-			productReference = C088CE70297295D500809695 /* workshoo_swiftui_calculator.app */;
+			productReference = C088CE70297295D500809695 /* workshop_swiftui_calculator.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = C088CE6B297295D400809695 /* Build configuration list for PBXProject "workshoo_swiftui_calculator" */;
+			buildConfigurationList = C088CE6B297295D400809695 /* Build configuration list for PBXProject "workshop_swiftui_calculator" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C088CE6F297295D500809695 /* workshoo_swiftui_calculator */,
+				C088CE6F297295D500809695 /* workshop_swiftui_calculator */,
 			);
 		};
 /* End PBXProject section */
@@ -141,8 +141,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C088CE76297295D500809695 /* ContentView.swift in Sources */,
-				C088CE822972C69D00809695 /* workshoo_swift_calculator.swift in Sources */,
-				C088CE74297295D500809695 /* workshoo_swiftui_calculatorApp.swift in Sources */,
+				C088CE822972C69D00809695 /* workshop_swift_calculator.swift in Sources */,
+				C088CE74297295D500809695 /* workshop_swiftui_calculatorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -324,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		C088CE6B297295D400809695 /* Build configuration list for PBXProject "workshoo_swiftui_calculator" */ = {
+		C088CE6B297295D400809695 /* Build configuration list for PBXProject "workshop_swiftui_calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C088CE7C297295D600809695 /* Debug */,
@@ -333,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C088CE7E297295D600809695 /* Build configuration list for PBXNativeTarget "workshoo_swiftui_calculator" */ = {
+		C088CE7E297295D600809695 /* Build configuration list for PBXNativeTarget "workshop_swiftui_calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				C088CE7F297295D600809695 /* Debug */,
