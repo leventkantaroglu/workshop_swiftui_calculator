@@ -11,7 +11,7 @@ import SwiftUI
 struct workshoo_swiftui_calculatorApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView().environmentObject(GlobalEnvironment())
         }
     }
 }

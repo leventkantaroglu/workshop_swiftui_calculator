@@ -11,6 +11,7 @@
 		C088CE76297295D500809695 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088CE75297295D500809695 /* ContentView.swift */; };
 		C088CE78297295D600809695 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C088CE77297295D600809695 /* Assets.xcassets */; };
 		C088CE7B297295D600809695 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C088CE7A297295D600809695 /* Preview Assets.xcassets */; };
+		C088CE822972C69D00809695 /* workshoo_swift_calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = C088CE812972C69D00809695 /* workshoo_swift_calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C088CE75297295D500809695 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C088CE77297295D600809695 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C088CE7A297295D600809695 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C088CE812972C69D00809695 /* workshoo_swift_calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = workshoo_swift_calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				C088CE73297295D500809695 /* workshoo_swiftui_calculatorApp.swift */,
+				C088CE812972C69D00809695 /* workshoo_swift_calculator.swift */,
 				C088CE75297295D500809695 /* ContentView.swift */,
 				C088CE77297295D600809695 /* Assets.xcassets */,
 				C088CE79297295D600809695 /* Preview Content */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C088CE76297295D500809695 /* ContentView.swift in Sources */,
+				C088CE822972C69D00809695 /* workshoo_swift_calculator.swift in Sources */,
 				C088CE74297295D500809695 /* workshoo_swiftui_calculatorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
